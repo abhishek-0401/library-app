@@ -1,0 +1,37 @@
+{
+        "libraryName": "National Centre of Library Sciences",
+        "libraryAddress": "Karnataka",
+        "libraryNumber": 2,
+        "libraryFacilities": [
+            "Online Journals / Resources",
+            "Computers in the Library",
+            "Inter Library Loan",
+            "Library Access Control System"
+        ]
+}
+
+
+
+{
+        "libraryName": "Delhi Public Library",
+        "libraryAddress": "Kolkata",
+        "libraryNumber": 3,
+        "libraryFacilities": [
+            "Plagiarism Checking Service",
+            "Library WEB OPAC",
+            "Library orientation program is arranged for every year"
+        ]
+}
+
+
+{
+        "libraryName": "Anna Centenary Library",
+        "libraryAddress": "Chennai",
+        "libraryNumber": 4,
+        "libraryFacilities": [
+            "Online public access catalogue",
+            "Drop Box facility to return the books",
+            "Exhibitions at the library",
+            "Newsletter"
+        ]
+}
